@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\swatantratiwari\\OneDrive - Nagarro\\Desktop\\DevOps\\DevOps Training\\DevOps Training\\DevOps Training.csproj": {}
+    "C:\\Users\\swatantratiwari\\OneDrive - Nagarro\\Desktop\\New folder\\DevOps-Pipeline\\DevOps Training\\DevOps Training\\DevOps Training.csproj": {}
   },
   "projects": {
-    "C:\\Users\\swatantratiwari\\OneDrive - Nagarro\\Desktop\\DevOps\\DevOps Training\\DevOps Training\\DevOps Training.csproj": {
+    "C:\\Users\\swatantratiwari\\OneDrive - Nagarro\\Desktop\\New folder\\DevOps-Pipeline\\DevOps Training\\DevOps Training\\DevOps Training.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\swatantratiwari\\OneDrive - Nagarro\\Desktop\\DevOps\\DevOps Training\\DevOps Training\\DevOps Training.csproj",
+        "projectUniqueName": "C:\\Users\\swatantratiwari\\OneDrive - Nagarro\\Desktop\\New folder\\DevOps-Pipeline\\DevOps Training\\DevOps Training\\DevOps Training.csproj",
         "projectName": "DevOps Training",
-        "projectPath": "C:\\Users\\swatantratiwari\\OneDrive - Nagarro\\Desktop\\DevOps\\DevOps Training\\DevOps Training\\DevOps Training.csproj",
+        "projectPath": "C:\\Users\\swatantratiwari\\OneDrive - Nagarro\\Desktop\\New folder\\DevOps-Pipeline\\DevOps Training\\DevOps Training\\DevOps Training.csproj",
         "packagesPath": "C:\\Users\\swatantratiwari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\swatantratiwari\\OneDrive - Nagarro\\Desktop\\DevOps\\DevOps Training\\DevOps Training\\obj\\",
+        "outputPath": "C:\\Users\\swatantratiwari\\OneDrive - Nagarro\\Desktop\\New folder\\DevOps-Pipeline\\DevOps Training\\DevOps Training\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.18.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

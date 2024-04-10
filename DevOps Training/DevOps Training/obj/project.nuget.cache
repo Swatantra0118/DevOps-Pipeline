@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gXkmImp36RwPRiLdy6ZYl2JtOoDt3lJL5lPjtmV/6GWloM2C/SkCwt7euKwD7L4xF13iOjofKprMVIPZwIAjYw==",
+  "dgSpecHash": "BsksQ4hW96eixdXHPhlGzCac3zd4a9WPYoXZOq/TR61iAxTc4RyEAfzvWkmnqisyFMcKZXXHXJoB6yVtMizBKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\swatantratiwari\\OneDrive - Nagarro\\Desktop\\DevOps\\DevOps Training\\DevOps Training\\DevOps Training.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\swatantratiwari\\OneDrive - Nagarro\\Desktop\\New folder\\DevOps-Pipeline\\DevOps Training\\DevOps Training\\DevOps Training.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\swatantratiwari\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
   "logs": []
 }
